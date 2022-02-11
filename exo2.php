@@ -1,0 +1,1 @@
+<?= 'Nouveau fichier php !<br/>'?>

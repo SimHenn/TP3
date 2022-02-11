@@ -1,1 +1,1 @@
-pouruqoi git merge ça marche pas?
+la branche2 est meilleur que la branche1
